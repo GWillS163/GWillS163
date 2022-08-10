@@ -1,4 +1,5 @@
 <div align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gwills163&show_icons=true&locale=en&layout=compact" alt="devilanandgupta" /></p>
   <p href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=gwills163&count_private=true&include_all_commits=true&show_icons=true&hide=issues"/>
   </p>
