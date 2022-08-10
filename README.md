@@ -1,8 +1,10 @@
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gwills163&show_icons=true&locale=en&layout=compact" alt="devilanandgupta" /></p>
-  <p href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=gwills163&count_private=true&include_all_commits=true&show_icons=true&hide=issues"/>
-  </p>
+
+<p href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gwills163&show_icons=true&locale=en&layout=compact" alt="devilanandgupta" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=gwills163&count_private=true&include_all_commits=true&show_icons=true&hide=issues"/>
+</p>
+  
   <p herf="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,java,git,linux,mongodb,mysql,photoshop,html,js,vue,php&perline=12"/>
   </p>
@@ -16,8 +18,7 @@
 - 🤔 I’m looking for help with some job opportunity if you have I will appreciate it whether its helped me. I'd like a new city for live🏨(now at beijing), nice work enviroment such as few overtimes, make me work and life balance🏞️. as for the aspect of salary, general level is acceptable😉.
 
 <hr>
-    
-    
+     
 <div align="center">
   <p>
     <em>
