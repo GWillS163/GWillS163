@@ -6,7 +6,7 @@
 </p>
   
   <p herf="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,java,git,linux,mongodb,mysql,photoshop,html,js,vue,php&perline=12"/>
+    <img src="https://skillicons.dev/icons?i=python,django,java,git,linux,mongodb,mysql,spring,html,js,vue,php&perline=6"/>
   </p>
 <div>
 <div align="left">
