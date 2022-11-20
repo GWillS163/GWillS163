@@ -15,7 +15,6 @@
 - 🌱 I’m currently learning some basic principles, and prepare for interview of recuritment.
 - 📫 How to reach me: GwillS@163.com
 - ⚡ Fun fact: Rubik's Cube solving(<a href="https://www.worldcubeassociation.org/persons/2019MENG18">My WCA profile</a>), and practice badminton.
-- 🤔 I’m looking for help with some job opportunity if you have I will appreciate it whether its helped me. I'd like a new city for live🏨(now at beijing), nice work enviroment such as few overtimes, make me work and life balance🏞️. as for the aspect of salary, general level is acceptable😉.
 
 <hr>
      
