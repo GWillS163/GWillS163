@@ -12,8 +12,6 @@
 <div align="left">
 <div>
 
-- 📫 How to reach me: GwillS@163.com
-- ⚡ Fun fact: Rubik's Cube solving(<a href="https://www.worldcubeassociation.org/persons/2019MENG18">My WCA profile</a>), and practice badminton.
 
 <hr>
      
